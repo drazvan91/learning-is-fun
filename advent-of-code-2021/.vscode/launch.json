@@ -26,6 +26,16 @@
             "stopAtEntry": false,
             "console": "internalConsole"
         },
-        
+        {
+            "name": "Day 3",
+            "type": "coreclr",
+            "request": "launch",
+            // "preLaunchTask": "build",
+            "program": "${workspaceFolder}/day-3/bin/Debug/net6.0/day-3.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/day-3",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
     ]
 }
