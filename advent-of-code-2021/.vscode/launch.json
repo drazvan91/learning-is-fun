@@ -37,5 +37,16 @@
             "stopAtEntry": false,
             "console": "internalConsole"
         },
+        {
+            "name": "Day 4",
+            "type": "coreclr",
+            "request": "launch",
+            // "preLaunchTask": "build",
+            "program": "${workspaceFolder}/day-4/bin/Debug/net6.0/day-4.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/day-4",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
     ]
 }
