@@ -15,7 +15,17 @@
             "stopAtEntry": false,
             "console": "internalConsole"
         },
-        
+        {
+            "name": "Day 2",
+            "type": "coreclr",
+            "request": "launch",
+            // "preLaunchTask": "build",
+            "program": "${workspaceFolder}/day-2/bin/Debug/net6.0/day-2.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/day-2",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
         
     ]
 }
