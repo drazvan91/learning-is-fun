@@ -69,6 +69,16 @@
             "cwd": "${workspaceFolder}/day-8",
             "stopAtEntry": false,
             "console": "internalConsole"
+        },        {
+            "name": "Day 9",
+            "type": "coreclr",
+            "request": "launch",
+            // "preLaunchTask": "build",
+            "program": "${workspaceFolder}/day-9/bin/Debug/net6.0/day-9.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/day-9",
+            "stopAtEntry": false,
+            "console": "internalConsole"
         },
     ]
 }
